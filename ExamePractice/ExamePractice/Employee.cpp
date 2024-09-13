@@ -1,10 +1,8 @@
 #include "Employee.h"
 
-
 Employee::Employee()
 {
 }
-
 Employee::Employee(int id, int hoursWorked){
 	this->id = id;
 	this->hoursWorked = hoursWorked;
@@ -14,7 +12,6 @@ Employee::Employee(int id, int hoursWorked){
 void Employee::setId(int id){
 	this->id = id;
 }
-
 void Employee::setHoursWorked(int hoursWorked){
 	this->hoursWorked = hoursWorked;
 }
@@ -60,7 +57,6 @@ void Employee::printEmployee(){
         }
     }
 }
-
 Employee* Employee::addEmployee(Employee* head) {
     Employee* consolidatedHead = nullptr;
     Employee* consolidatedTail = nullptr;

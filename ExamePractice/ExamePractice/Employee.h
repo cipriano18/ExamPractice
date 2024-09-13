@@ -3,7 +3,6 @@
 using namespace std;
 class Employee{
 private:
-
 	int id;
 	int hoursWorked;
 	Employee* next;

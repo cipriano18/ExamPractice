@@ -11,6 +11,14 @@
       "RelativeMoniker": "D:0:0:{F42C8462-A9AE-4D79-9896-7DF1BD716E03}|ExamePractice\\ExamePractice.vcxproj|solutionrelative:ExamePractice\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F42C8462-A9AE-4D79-9896-7DF1BD716E03}|ExamePractice\\ExamePractice.vcxproj|C:\\Users\\User\\Desktop\\ESTRUCTURA VISUAL\\EJERCICIOS PARA EXAMEN\\ExamPractice\\ExamePractice\\ExamePractice\\Numbers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F42C8462-A9AE-4D79-9896-7DF1BD716E03}|ExamePractice\\ExamePractice.vcxproj|solutionrelative:ExamePractice\\Numbers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42C8462-A9AE-4D79-9896-7DF1BD716E03}|ExamePractice\\ExamePractice.vcxproj|C:\\Users\\User\\Desktop\\ESTRUCTURA VISUAL\\EJERCICIOS PARA EXAMEN\\ExamPractice\\ExamePractice\\ExamePractice\\Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F42C8462-A9AE-4D79-9896-7DF1BD716E03}|ExamePractice\\ExamePractice.vcxproj|solutionrelative:ExamePractice\\Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F42C8462-A9AE-4D79-9896-7DF1BD716E03}|ExamePractice\\ExamePractice.vcxproj|C:\\Users\\User\\Desktop\\ESTRUCTURA VISUAL\\EJERCICIOS PARA EXAMEN\\ExamPractice\\ExamePractice\\ExamePractice\\ExamePractice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F42C8462-A9AE-4D79-9896-7DF1BD716E03}|ExamePractice\\ExamePractice.vcxproj|solutionrelative:ExamePractice\\ExamePractice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -22,8 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Numbers.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ESTRUCTURA VISUAL\\EJERCICIOS PARA EXAMEN\\ExamPractice\\ExamePractice\\ExamePractice\\Numbers.cpp",
+              "RelativeDocumentMoniker": "ExamePractice\\Numbers.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ESTRUCTURA VISUAL\\EJERCICIOS PARA EXAMEN\\ExamPractice\\ExamePractice\\ExamePractice\\Numbers.cpp",
+              "RelativeToolTip": "ExamePractice\\Numbers.cpp",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T17:25:41.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Numbers.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ESTRUCTURA VISUAL\\EJERCICIOS PARA EXAMEN\\ExamPractice\\ExamePractice\\ExamePractice\\Numbers.h",
+              "RelativeDocumentMoniker": "ExamePractice\\Numbers.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ESTRUCTURA VISUAL\\EJERCICIOS PARA EXAMEN\\ExamPractice\\ExamePractice\\ExamePractice\\Numbers.h",
+              "RelativeToolTip": "ExamePractice\\Numbers.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-11T17:16:28.835Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,7 +66,7 @@
               "RelativeDocumentMoniker": "ExamePractice\\Employee.cpp",
               "ToolTip": "C:\\Users\\User\\Desktop\\ESTRUCTURA VISUAL\\EJERCICIOS PARA EXAMEN\\ExamPractice\\ExamePractice\\ExamePractice\\Employee.cpp",
               "RelativeToolTip": "ExamePractice\\Employee.cpp",
-              "ViewState": "AQIAADgAAAAAAAAAAAAcwD8AAAAUAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAE8AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-11T15:24:29.133Z",
               "EditorCaption": ""
@@ -45,20 +79,20 @@
               "RelativeDocumentMoniker": "ExamePractice\\Employee.h",
               "ToolTip": "C:\\Users\\User\\Desktop\\ESTRUCTURA VISUAL\\EJERCICIOS PARA EXAMEN\\ExamPractice\\ExamePractice\\ExamePractice\\Employee.h",
               "RelativeToolTip": "ExamePractice\\Employee.h",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBsAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-11T15:04:39.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ExamePractice.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\ESTRUCTURA VISUAL\\EJERCICIOS PARA EXAMEN\\ExamPractice\\ExamePractice\\ExamePractice\\ExamePractice.cpp",
               "RelativeDocumentMoniker": "ExamePractice\\ExamePractice.cpp",
               "ToolTip": "C:\\Users\\User\\Desktop\\ESTRUCTURA VISUAL\\EJERCICIOS PARA EXAMEN\\ExamPractice\\ExamePractice\\ExamePractice\\ExamePractice.cpp",
               "RelativeToolTip": "ExamePractice\\ExamePractice.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-11T15:00:16.043Z",
               "EditorCaption": ""
